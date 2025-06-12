@@ -10,6 +10,18 @@ I am **Lorence**, a Computer Engineering student in the Philippines.
 
 <h1>About Me</h1>
 
+**My Skills**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Prioritized row -->
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css" /><br>
+    <!-- Secondary row -->
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,bootstrap,webflow,java,sass" /><br>
+    <!-- Tools & IDEs row -->
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea" />
+  </a>
+</p>
+
 **Where to find me**<br>
 
 [![Static Badge](https://img.shields.io/badge/Contact%20Me-white?style=for-the-badge&logo=Gmail&color=white)](mailto:lorenceglenmuros@gmail.com)
