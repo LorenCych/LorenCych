@@ -3,6 +3,11 @@
 I am **Lorence**, a CpE student in the Philippines.
 
 <h1>Sample Header</h1>
+
+**Where to find me**
+![Static Badge](https://img.shields.io/badge/Contact%20Me-white?style=for-the-badge&logo=Gmail&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Florence-glen%2F)
+
+
 <!--
 **LorenCych/LorenCych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
