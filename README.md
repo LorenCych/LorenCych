@@ -12,7 +12,7 @@ I am **Lorence**, a Computer Engineering student in the Philippines.
 
 **Where to find me**<br>
 
-![Static Badge](https://img.shields.io/badge/Contact%20Me-white?style=for-the-badge&logo=Gmail&color=white&link=mailto:lorenceglenmuros@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Contact%20Me-white?style=for-the-badge&logo=Gmail&color=white)](mailto:lorenceglenmuros@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorence-glen/)
 <!--
 **LorenCych/LorenCych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
