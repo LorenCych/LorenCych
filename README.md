@@ -1,5 +1,8 @@
-## Hi there 👋
+## Nice Meeting You! 👋
 
+I am **Lorence**, a CpE student in the Philippines.
+
+<h1>Sample Header</h1>
 <!--
 **LorenCych/LorenCych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
